@@ -1,2 +1,3 @@
-# issue-tracker-im
-Kurs Repository für Software Engineering im SS 2026.
+# Issue Tracker App
+
+Simple App für das Erfassen/Ändern/... von Issues mit Hilfe von Python...
